@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning Devops
 - 🌱 I’m currently learning ... AWS and Devops tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...follow my instagram 
 
 <!---
 tiruvedi/tiruvedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
